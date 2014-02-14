@@ -1,5 +1,0 @@
-[user]
-	name = brianahearn
-	email = cosultante@gmail.com
-[alias]
-	undo-commit = reset --soft HEAD^
