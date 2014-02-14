@@ -10,6 +10,12 @@ ZSH_THEME="blinks"
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+alias css='cd /var/www/html/teqonlinepd/wp-content/themes/twentythirteen-teq/css'
+alias header='cd /var/www/html/teqonlinepd/wp-content/themes/twentythirteen-teq'
+alias templates ='cd /var/www/html/teqonlinepd/wp-content/themes/twentythirteen-teq/templates'
+alias templates='cd /var/www/html/teqonlinepd/wp-content/themes/twentythirteen-teq/templates/'
+alias admin='cd /var/www/html/teqonlinepd/wp-content/plugins/teq-admin/'
+alias zshrc='sublime ~/.oh-my-zsh'
 
 # Set to this to use case-sensitive completion
 # CASE_SENSITIVE="true"
